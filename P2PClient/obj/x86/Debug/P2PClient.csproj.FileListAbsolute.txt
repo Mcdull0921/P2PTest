@@ -1,7 +1,0 @@
-E:\C# Project\C#网络通信\P2PTest\P2PClient\bin\Debug\P2PClient.exe
-E:\C# Project\C#网络通信\P2PTest\P2PClient\bin\Debug\P2PClient.pdb
-E:\C# Project\C#网络通信\P2PTest\P2PClient\obj\x86\Debug\P2PClient.exe
-E:\C# Project\C#网络通信\P2PTest\P2PClient\obj\x86\Debug\P2PClient.pdb
-E:\C# Project\C#网络通信\P2PTest\P2PClient\obj\x86\Debug\P2PClient.csprojResolveAssemblyReference.cache
-E:\C# Project\C#网络通信\P2PTest\P2PClient\bin\Debug\P2P.dll
-E:\C# Project\C#网络通信\P2PTest\P2PClient\bin\Debug\P2P.pdb

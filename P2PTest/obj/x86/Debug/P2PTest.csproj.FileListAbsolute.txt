@@ -1,7 +1,0 @@
-E:\C# Project\C#网络通信\P2PTest\P2PTest\bin\Debug\P2PTest.exe
-E:\C# Project\C#网络通信\P2PTest\P2PTest\bin\Debug\P2PTest.pdb
-E:\C# Project\C#网络通信\P2PTest\P2PTest\obj\x86\Debug\P2PTest.exe
-E:\C# Project\C#网络通信\P2PTest\P2PTest\obj\x86\Debug\P2PTest.pdb
-E:\C# Project\C#网络通信\P2PTest\P2PTest\obj\x86\Debug\P2PTest.csprojResolveAssemblyReference.cache
-E:\C# Project\C#网络通信\P2PTest\P2PTest\bin\Debug\P2P.dll
-E:\C# Project\C#网络通信\P2PTest\P2PTest\bin\Debug\P2P.pdb
