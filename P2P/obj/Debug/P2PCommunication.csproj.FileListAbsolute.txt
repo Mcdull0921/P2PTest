@@ -1,0 +1,4 @@
+E:\C# Project\C#网络通信\P2PTest\P2PCommunication\bin\Debug\P2PCommunication.dll
+E:\C# Project\C#网络通信\P2PTest\P2PCommunication\bin\Debug\P2PCommunication.pdb
+E:\C# Project\C#网络通信\P2PTest\P2PCommunication\obj\Debug\P2PCommunication.dll
+E:\C# Project\C#网络通信\P2PTest\P2PCommunication\obj\Debug\P2PCommunication.pdb
